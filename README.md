@@ -2,7 +2,8 @@
 
 A lanyard-style ID card that hangs, swings, and flips — drag it like a real badge on a strap. A Skia-rendered twisted-ribbon lanyard curls and bows as the card flips between its front and back faces, with spring-driven bounce throughout.
 
-<img width="1280" height="720" alt="HangingCard hero" src="PASTE_HERO_GIF_URL_HERE" />
+<img width="1280" height="720" alt="km_20261009-4_1080p_60f_20261009_164951-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/67253c90-7712-4434-aa23-07f022551752" />
+
 
 ---
 
