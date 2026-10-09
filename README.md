@@ -74,7 +74,11 @@ export function ProfileScreen() {
 
 ## Preview
 
-PASTE_PREVIEW_VIDEO_URL_HERE
+
+
+https://github.com/user-attachments/assets/5fdd1da3-1dbd-446d-b0f5-ba7e11f72df7
+
+
 
 ---
 
